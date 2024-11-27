@@ -9,7 +9,7 @@
     <MauiXaml Update="AddProductPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="NewPage1.xaml">
+    <MauiXaml Update="ProductsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="RemoveProductPage.xaml">
